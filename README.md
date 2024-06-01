@@ -1,8 +1,14 @@
 # riearcvv.github.io
-echo "# riearcvv.github.io" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/errainpp/riearcvv.github.io.git
-git push -u origin main
+Ini adalah repository untuk website saya yang dipublikasikan menggunakan GitHub Pages.
+
+## Struktur Direktori
+
+- `index.html`: Halaman utama situs.
+- `css/`: Direktori untuk file CSS.
+- `js/`: Direktori untuk file JavaScript.
+- `images/`: Direktori untuk gambar.
+
+## Cara Mengakses
+
+Situs ini dapat diakses di [https://riearcvv.github.io](https://riearcvv.github.io).
+
