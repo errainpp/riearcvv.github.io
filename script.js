@@ -20,7 +20,7 @@ function login() {
         localStorage.setItem('role', 'user');
         showMainPage();
     } else {
-        alert('Invalid credentials');
+        alert('Username atau Password yang anda masukkan salah! silahkan coba lagi');
     }
 }
 
